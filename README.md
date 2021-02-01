@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Noor Ul Ain
+### Full Stack JS Developer
 
-You can use the [editor on GitHub](https://github.com/Noorulain-1095/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About
+I am a young professional, graduated in Software Engineering and having more than two years of working experience in developement. Currently, I am working with a company named Qavi Technologies as a Senior Software Engineer.The technologies that I've got hands on experience are MEAN, MERN, vanilla JS, MYSQL and Sql Server. I am a self-starter and dedicated learner and have a passion to learn new Software Technologies. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my company.
 
 ```markdown
 Syntax highlighted code block
