@@ -31,6 +31,7 @@ Marketing & Advertising Agency
 ## - Education
 ### BS in Software Engineering
 **2015 - 2018**
+
 **Jinnah University for Women**|[Link](https://cs.juw.edu.pk/computerscience.html) 
 
 ## - Projects
