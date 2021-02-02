@@ -28,6 +28,42 @@ Marketing & Advertising Agency
 **Web Intern** (June 2020 - Aug 2020)
 - Developed Client Management System for TDF using Bootstrap and CodeIgniter.
 
+## - Projects
+
+### AsaanGhar
+AsaanGhar is an on going project of house building Finance Application providing affordable housing and school building solutions to primarily low and low-middle income groups of population by encouraging new construction in affordable housing sector.
+
+- Technology: ReactJS, Redux, NodeJS, Sequelize, MySQL.
+- Workings as: Full Stack Developer.
+- Associated: Qavi Technologies.
+
+### Nida Ul Quran
+Nida Ul Quran is an online learning platform where teachers have their schedule and students can book slot from it for a private online class. I have worked on it's module of login and scheduling classes, notification and messaging via socket.io.
+
+- Technology: NodeJS, MongoDB, Mongoose.
+- Workings as: Backend Developer.
+- Associated: Qavi Technologies.
+
+### Logomakr | [Link](https://logomakr.com/)
+Logomakr is a worldwide logo design company. I have created svg icon creator tool for them that enables the user to upload image and have the option of crop, erase, magic wand etc to edit the image and then can covert it to svg, which can be used as an icon in creating their logo.
+
+- Technology: Html canvas, javascript, JQuery, multible js libraries for creating diff tools.
+- Associated: Qavi Technologies.
+
+### Zainergy | [Link](http://zainergy.com/)
+Zainergy is an IOT based platform and ecosystem provide the foundation for a custom IoT software-as-a-service (SaaS) solution. I have worked on it's dasboards where live data can bee seen and compare through graphs.
+
+- Technology: Angular10.
+- Associated: Qavi Technologies.
+
+### Hypowerinc
+Hypowerinc is US electrical and utility contractor. We have build their management system that let them manage their different departments,employees' attendance, daily wage people, payroll, weekly equipment usage, assigned benifits like vehicals,toll cards etc.I'd worked as a main resource of hype for more than an year with a team of 10 people.
+- Technology: Angular8, AngularJS, Node.js, Express.js, Sequelize.
+- Worked as: Full Stack Developer.
+- Associated: Qavi Technologies.
+
+
+http://zainergy.com/
 ````markdown
 Syntax highlighted code block
 
