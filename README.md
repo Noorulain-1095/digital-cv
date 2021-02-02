@@ -34,6 +34,13 @@ Marketing & Advertising Agency
 
 **Jinnah University for Women**|[Link](https://cs.juw.edu.pk/computerscience.html) 
 
+## - Job Related Skills
+- JavaScript,AngularJs,Angular 10, ReactJs & JQuery.
+- Angular Powered Bootstrap, Angular Material & Material UI.
+- NodeJS, ExpressJS
+- Firebase, MySQL, Sequelize, MongoDb, Mongoose & Rest-API
+- Version Control Systems and Software Project management tools like GIT, GitHub, Bitbucket and Jira
+
 ## - Projects
 
 ### AsaanGhar
