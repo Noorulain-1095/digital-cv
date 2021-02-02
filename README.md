@@ -25,7 +25,7 @@ Marketing & Advertising Agency
 
 **Link:** http://tdf.com.pk/
 
-**Web Intern** (June 2020 - Aug 2020)
+**Web Intern** (June 2018 - Aug 2018)
 - Developed Client Management System for TDF using Bootstrap and CodeIgniter.
 
 ## - Education
