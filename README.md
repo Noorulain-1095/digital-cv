@@ -7,6 +7,7 @@ I am a young professional, graduated in Software Engineering and having more tha
 ## - Experience
 ### Qavi Technologies
 Qavi technologies is a Software Service Providers that are specialized in full-text search, data analytics, cyber security and more implementations. Their headquarters are currently located in Karachi, Pakistan, yet remotely serving clients all across the globe.
+
 **Link:** https://qavi.tech/about-us/
 
 **Senior Software Engineer** (Aug 2020 - present)
@@ -21,7 +22,9 @@ Qavi technologies is a Software Service Providers that are specialized in full-t
 
 ### The Digital Factory 
 Marketing & Advertising Agency
+
 **Link:** http://tdf.com.pk/
+
 **Web Intern** (June 2020 - Aug 2020)
 - Developed Client Management System for TDF using Bootstrap and CodeIgniter.
 
