@@ -28,6 +28,11 @@ Marketing & Advertising Agency
 **Web Intern** (June 2020 - Aug 2020)
 - Developed Client Management System for TDF using Bootstrap and CodeIgniter.
 
+## - Education
+### BS in Software Engineering
+**2015 - 2018**
+**Jinnah University for Women**|[Link](https://cs.juw.edu.pk/computerscience.html) 
+
 ## - Projects
 
 ### AsaanGhar
