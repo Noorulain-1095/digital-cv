@@ -1,10 +1,31 @@
 ## Noor Ul Ain
 ### Full Stack JS Developer
 
-## About
+## - About
 I am a young professional, graduated in Software Engineering and having more than two years of working experience in developement. Currently, I am working with a company named Qavi Technologies as a Senior Software Engineer.The technologies that I've got hands on experience are MEAN, MERN, vanilla JS, MYSQL and Sql Server. I am a self-starter and dedicated learner and have a passion to learn new Software Technologies. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my company.
 
-```markdown
+## - Experience
+# Qavi Technologies
+https://qavi.tech/about-us/
+Qavi technologies is a Software Service Providers that are specialized in full-text search, data analytics, cyber security and more implementations. Their headquarters are currently located in Karachi, Pakistan, yet remotely serving clients all across the globe.
+
+**Senior Software Engineer** (Aug 2020 - present)
+- Responsible for formulating solutions, developing MEAN/MERN web applications for different client-based products.
+- Play role as a sub team lead to mentor junior developers and keep all team members moving forward on assigned task.
+- Requirement gathering on client calls.
+- Code and pull request reviews.
+
+**Software Engineer** (Aug 2018 - Aug 2020)
+- worked with worldwide logo design company Logomakr in creating their new tool for svg conversion.(Vanilla JS)
+- worked on a project of US electrical and utility contractor Hypower's managment system.(Angular8,NodeJS)
+
+# The Digital Factory 
+Marketing & Advertising Agency
+http://tdf.com.pk/
+** Web Intern ** (June 2020 - Aug 2020)
+- Developed Client Management System for TDF using Bootstrap and CodeIgniter.
+
+````markdown
 Syntax highlighted code block
 
 # Header 1
