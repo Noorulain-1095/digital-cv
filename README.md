@@ -2,7 +2,7 @@
 ### Full Stack JS Developer
 
 ## - About
-I am a young professional, graduated in Software Engineering and having more than two years of working experience in developement. Currently, I am working with a company named Qavi Technologies as a Senior Software Engineer.The technologies that I've got hands on experience are MEAN, MERN, vanilla JS, MYSQL and Sql Server. I am a self-starter and dedicated learner and have a passion to learn new Software Technologies. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my company.
+I am a self-starter and dedicated learner and have a passion to learn new Software Technologies, having more than two years of working experience in development. Currently, I am working with a company named Qavi Technologies as a Senior Software Engineer. The technologies that I've got hands on experience are MEAN, MERN, vanilla JS, MYSQL and Sql Server. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my company.
 
 ## - Experience
 ### Qavi Technologies
