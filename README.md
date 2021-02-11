@@ -10,7 +10,7 @@ Qavi technologies is a Software Service Providers that are specialized in full-t
 
 **Link:** https://qavi.tech/about-us/
 
-**Senior Software Engineer** (Jan 2020 - present)
+**Senior Software Engineer** (Jan 2021 - present)
 - Responsible for formulating solutions, developing MEAN/MERN web applications for different client-based products.
 - Requirement gathering on client calls and playing role as a sub team lead to mentor junior developers and keep all team members moving forward on assigned task.
 - Defining code architecture decisions to support a high-performance and scalable product.
