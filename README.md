@@ -10,15 +10,16 @@ Qavi technologies is a Software Service Providers that are specialized in full-t
 
 **Link:** https://qavi.tech/about-us/
 
-**Senior Software Engineer** (Aug 2020 - present)
+**Senior Software Engineer** (Jan 2020 - present)
 - Responsible for formulating solutions, developing MEAN/MERN web applications for different client-based products.
-- Play role as a sub team lead to mentor junior developers and keep all team members moving forward on assigned task.
-- Requirement gathering on client calls.
+- Requirement gathering on client calls and playing role as a sub team lead to mentor junior developers and keep all team members moving forward on assigned task.
+- Defining code architecture decisions to support a high-performance and scalable product.
 - Code and pull request reviews.
 
-**Software Engineer** (Aug 2018 - Aug 2020)
-- worked with worldwide logo design company Logomakr in creating their new tool for svg conversion.(Vanilla JS)
-- worked on a project of US electrical and utility contractor Hypower's managment system.(Angular8,NodeJS)
+**Software Engineer** (Aug 2018 - Jan 2020)
+- Developing the user interface of application, the core platform, and reusable components.
+- Developing highly scalable services and Rest APIs using Express.js
+- Collaborate with team lead to determine functional and non-functional requirements,technical solutions and estimating story points of tasks.
 
 ### The Digital Factory 
 Marketing & Advertising Agency
