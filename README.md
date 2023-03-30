@@ -2,24 +2,47 @@
 ### Full Stack JS Developer
 
 ## - About
-I am a self-starter and dedicated learner and have a passion to learn new Software Technologies, having more than two years of working experience in development. Currently, I am working with a company named Qavi Technologies as a Senior Software Engineer. The technologies that I've got hands on experience are MEAN, MERN, vanilla JS, MYSQL and Sql Server. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my company.
+I am a self-starter and dedicated learner and have a passion to learn new Software Technologies, having more than four years of working experience in development. Currently, I am working as a Senior Software Engineer in a global company named Securit AI - the leader in AI Powered Data Privacy and Data Security. The technologies that I've got hands on experience are MEVN, MEAN, MERN, vanilla JS, MYSQL and Sql Server. I enjoy contributing to new ideas and have a team-leading with strong communication skills. Besides development I do code reviews and train junior developers at my domain.
 
 ## - Experience
+### Securiti AI
+Securiti is the leader in AI Powered Data Privacy and Data Security.
+
+It is:
+- Forrester Wave Leader
+- Winner of "Most Innovative Startup" at RSA
+- Winner of IAPP's "Most Innovative Company" Award
+- Forbes Top 25 Global Machine Learning Companies Award
+- Frost and Sullivan "Most Innovative Company" Award
+- CRN Top 10 Coolest Startups
+
+**Link:** https://securiti.ai/products/data-privacy/
+
+**Senior Software Engineer** (Sept 2021 - Present)
+- Working as a VueJS developer 
+- Working with cross-functional remote teams based in US, India, and Pakistan.
+
+Skills: Vuex · Code Review · Jira · docker · Scrum · Agile Development · Jest · Vue.js · Vuetify
+
 ### Qavi Technologies
 Qavi technologies is a Software Service Providers that are specialized in full-text search, data analytics, cyber security and more implementations. Their headquarters are currently located in Karachi, Pakistan, yet remotely serving clients all across the globe.
 
 **Link:** https://qavi.tech/about-us/
 
-**Senior Software Engineer** (Jan 2021 - present)
+**Senior Software Engineer** (Jan 2021 - Aug 2021)
 - Responsible for formulating solutions, developing MEAN/MERN web applications for different client-based products.
 - Requirement gathering on client calls and playing role as a sub team lead to mentor junior developers and keep all team members moving forward on assigned task.
 - Defining code architecture decisions to support a high-performance and scalable product.
 - Code and pull request reviews.
 
+Skills: Team Leadership · Mentoring · Code Review · Socket.io · Agora · Twilio · Micro frontends · Redux.js · Jira · mongoose · React.js · JavaScript · Angular · Node.js · MongoDB · MySQL
+
 **Software Engineer** (Aug 2018 - Jan 2020)
 - Developing the user interface of application, the core platform, and reusable components.
 - Developing highly scalable services and Rest APIs using Express.js
 - Collaborate with team lead to determine functional and non-functional requirements,technical solutions and estimating story points of tasks.
+
+Skills: Microsoft SQL Server · Sequelize.js · AngularJS · Angular · Node.js
 
 ### The Digital Factory 
 Marketing & Advertising Agency
